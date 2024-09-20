@@ -8,3 +8,5 @@ Disc_marker - Custom marker for disc golf.
 Shade-cover - Replacement/extra shade covers for LetPot hydroponic systems. Designed for MAX model but may work for others.
 
 Turkey - Wooden laser cut turkey for 1/8 inch wood, and assembly instructions
+
+ArcadeCoinEarrings - Earrings (or keychains) of retro arcade coin slots
